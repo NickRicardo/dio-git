@@ -1,0 +1,1 @@
+Olá, git estamos aqui editando este documento apenas para a aula... que inclusive e mto chat
